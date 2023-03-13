@@ -1,3 +1,3 @@
-import CanvasGrid from './components/CanvasGrid.vue';
+import CanvasGrid from './src/CanvasGrid.vue';
 
 export default CanvasGrid;
