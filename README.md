@@ -1,4 +1,9 @@
-# canvas-image-vue
+# cCanvas Image Grid for Vue
+
+## Installation 
+```
+npm i canvas-image-grid
+```
 
 Example usage
 ```
