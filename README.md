@@ -1,4 +1,4 @@
-# cCanvas Image Grid for Vue
+# Canvas Image Grid for Vue
 
 ## Installation 
 ```
