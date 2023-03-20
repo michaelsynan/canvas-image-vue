@@ -1,7 +1,7 @@
 {
   "name": "canvas-image-grid",
   "version": "0.5.1",
-  "description": "Divide images into canvas elements based on desired number of rows and columns. ",
+  "description": "Divide images into canvas elements based on desired number of rows and columns.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +15,11 @@
   },
   "devDependencies": {
     "@vue/cli-service": "^5.0.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelsynan/canvas-image-vue.git"
+  },
+  "keywords": [
+    "vue", "nuxt", "canvas api"]
 }
